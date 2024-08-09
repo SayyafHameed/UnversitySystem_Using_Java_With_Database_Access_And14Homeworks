@@ -18,4 +18,6 @@ Access Database: The relational database management system (RDBMS) used for stor
 JDBC (Java Database Connectivity): The API used for seamless communication between the Java application and the Access database, enabling data retrieval, manipulation, and storage.
 User Interface (UI) Design: Created an intuitive and accessible interface to improve user experience.
 
-- Throughout this project, I focused on writing clean, maintainable code and employing best practices in software development. This experience not only honed my programming skills in Java but also deepened my understanding of database management and system design, preparing me to tackle complex challenges in the real world.
+# Throughout this project
+
+I focused on writing clean, maintainable code and employing best practices in software development. This experience not only honed my programming skills in Java but also deepened my understanding of database management and system design, preparing me to tackle complex challenges in the real world.
